@@ -14,6 +14,8 @@ elif op == "x":
     print(number1 * number2)
 elif op == "/":
     print(number1 / number2)
+elif op == "÷":
+    print(numbers / number2)
 else:
     print("invalid operator")
     print("please enter a valid operator")
